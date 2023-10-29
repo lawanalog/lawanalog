@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lawanalog
-- 👀 I’m interested in freelance IT Systems and Network job
-- 🌱 I’m currently working with Gaichu Managed Service, Dover USA
+- - 👀 I’m an IT Systems Administrator 
+- 👀 I’m interested in Cloud Computing, Cybersecurity, Data Analytic
+- 🌱 I’m currently working with The Adecco Group, UK & Ireland
 - 💞️ I’m looking to collaborate/lead on IT Infastructure projects in UK.
 - 📫 How to reach me analolawrence@aol.com
 
